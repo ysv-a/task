@@ -55,7 +55,10 @@ http://htmlbook.ru/html/form/enctype
 https://laravel.su/docs/8.x/requests#files
 https://laravel.su/docs/8.x/filesystem#file-uploads
 
-
+нужно ввести команду
+```php
+php artisan storage:link
+```
 ## Enum поле
 
 в таблице orders
