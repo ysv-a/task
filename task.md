@@ -1,6 +1,6 @@
 # Реализация REST API части функционала автомойки
 
-по данной диаграмме, построить БД https://drawsql.app/alexxx/diagrams/laravel
+по данной диаграмме, построить БД https://drawsql.app/teams/alexxx/diagrams/servicev2
 
 Описать API через Swagger:
 
